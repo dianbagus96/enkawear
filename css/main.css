@@ -1,0 +1,131 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+  margin: 0;
+  padding-bottom: 0;
+}
+.center {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.margin-tb {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.font-30 a {
+  font-size: 1.2em;
+  color: black;
+}
+
+.logo h1 {
+  font-size: 5em;
+}
+
+.logo .menu {
+  margin-top: 5em;
+  margin-bottom: 1em;
+}
+
+.logo .menu a {
+  color: black;
+  margin-left: 5em;
+  margin-right: 3em;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.curr{
+    font-weight: bold
+}
+
+.arrival .detail{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center
+}
+
+.keranjang input {
+    border-top: none;
+    border-left: none;
+    border-right: none; 
+}
+
+.keranjang input:focus{
+    border-top: none;
+    border-left: none;
+    border-right: none; 
+    outline: none;
+}
+
+.heading {
+  margin: auto;
+  padding: 2.75em;
+  text-align: center;
+}
+
+.heading h3 {
+  font-weight: 800;
+}
+
+.arrival img {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.footer {
+  margin: 7em 0 0 0 !important;
+  height: 270px;
+}
+
+footer .logo {
+  font-weight: 500;
+  font-size: 4em;
+  color: black;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 200px;
+}
+
+footer .follow {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 200px;
+  color: #484040;
+  font-weight: 600;
+}
+
+footer .heading {
+  margin: auto;
+  padding: 0;
+  text-align: left;
+  font-weight: 700;
+  margin: 0 0 0.5em 0;
+}
+
+.footer-font p {
+  font-size: 1em;
+}
+.collection h2 {
+  font-weight: 600;
+}
+.choice {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.slash {
+    height: 1px;
+    width: 40px;
+    background: #8F867F;
+    position: absolute;
+    margin: auto;
+    transform: rotate(-45deg);
+  }
+}
